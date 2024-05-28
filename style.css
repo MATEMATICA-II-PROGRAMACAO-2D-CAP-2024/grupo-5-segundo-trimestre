@@ -12,3 +12,9 @@ color: var(--cor-branca);
     margin: 0;
     padding:0;
 }
+
+{
+
+.conteudo-principal{
+    background-image:url("./img/STAR-PLUS.jpg");
+}
